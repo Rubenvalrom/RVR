@@ -1,3 +1,8 @@
+**Nota:** 
+Aunque no cuente para nota (ya que es temario de base de datos) dejo el enlace a una versión del proyecto con mejor documentación interna, correción de bugs y manual de Usuario. No se han añadido ni mejorado funcionalidades pero ayuda bastante la documentación interna.
+
+https://github.com/Rubenvalrom/Proyecto-Programaci-n-y-Base-de-datos
+
 # RVR
 
 Proyecto Programación y Base de datos por Rubén Valverde Romero
